@@ -1,0 +1,3 @@
+﻿  cheat.cpp
+C:\Users\Lenovo\source\repos\DreadHunger\DreadHunger\cheat.cpp(38,7): warning C4101: “bc2”: 未引用的局部变量
+  DreadHunger.vcxproj -> C:\Users\Lenovo\source\repos\DreadHunger\x64\Debug\DreadHunger.dll
